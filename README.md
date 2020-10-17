@@ -6,6 +6,7 @@ This restaurant app is developed in React Native for cross platform devices. (Te
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja2.jpg" alt="alt text" width="250px" height="480px">
     </div>
    1.Splash Screen
+   
    2. Home Screen getting data from json-server.
    
    ## User Login/Register
@@ -52,7 +53,7 @@ This restaurant app is developed in React Native for cross platform devices. (Te
 Expo's Calendar and Notification/Permission SDK is used.
 
 
-## CONTACT US and Drawer Navigation
+## Contact Us and Drawer Navigation
 <div style="display:flex;width:100%;flex-direction:row;justify-content:space-around;">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja10.jpg" alt="alt text" width="250px" height="480px">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja12.jpg" alt="alt text" width="250px" height="480px">
