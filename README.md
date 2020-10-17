@@ -1,7 +1,7 @@
 # Banja-aRestaurantApp
 This restaurant app is developed in React Native for cross platform devices. (Tested on Android devices only)
 
-### To open the app in your own smartphone, download EXPO Client App and for QR code  of app, <a href="https://expo.io/@aashishwastaken/projects/banja" target="blank">CLICK HERE</a>.
+### To open the app in your own smartphone, download EXPO Client App and for QR code  of app, <a href="https://expo.io/@aashishwastaken/projects/banja" target="_blank" >CLICK HERE</a>.
 ## Main Screen
 <div style="display:flex;width:100%;flex-direction:row;justify-content:space-around;">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja1.jpg" alt="alt text" width="250px" height="480px">
