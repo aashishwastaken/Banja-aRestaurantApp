@@ -6,7 +6,6 @@ This restaurant app is developed in React Native for cross platform devices. (Te
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja2.jpg" alt="alt text" width="250px" height="480px">
     </div>
    1.Splash Screen
-   
    2. Home Screen getting data from json-server.
    
    ## User Login/Register
@@ -35,11 +34,10 @@ This restaurant app is developed in React Native for cross platform devices. (Te
   <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja6.jpg" alt="alt text" width="250px" height="480px">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja7.jpg" alt="alt text" width="250px" height="480px">
     </div>
-    7.Tiled Menu is used.
+    7.Tiled Menu is used
+
+   8.Right to left swipe will set dish as favorite. Left to right swipe will show modal having form for adding comments.
     
-    8.Right to left swipe will set dish as favorite. Left to right swipe will show modal having form for adding comments.
-    
-    ## Reservation Table Form
   <div style="display:flex;width:100%;flex-direction:row;justify-content:space-around;">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja9.jpg" alt="alt text" width="250px" height="480px">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja10.jpg" alt="alt text" width="250px" height="480px">
