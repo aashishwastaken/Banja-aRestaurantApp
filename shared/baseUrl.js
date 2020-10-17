@@ -1,2 +1,2 @@
-export const baseUrl="http://192.168.43.220:3001/";
+export const baseUrl="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/json-server/db.json/";
 export default baseUrl;
