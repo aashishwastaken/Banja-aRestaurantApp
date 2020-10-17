@@ -25,6 +25,7 @@
     "description": "Coursera Restaurant App for Mobile Development Course",
     "android": {
       "package": "com.aashishwastaken.banja"
-    }
+    },
+    "githubUrl": "https://github.com/aashishwastaken/Banja-aRestaurantApp"
   }
 }
