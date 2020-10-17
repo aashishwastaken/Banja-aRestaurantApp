@@ -13,7 +13,10 @@ This restaurant app is developed in React Native for cross platform devices. (Te
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja4.jpg" alt="alt text" width="250px" height="480px">
   </div>
   3.Login Screen 4.Register Screen 
+  
   Both works on Secure Storage.
+  
+  
   <div style="display:flex;width:100%;flex-direction:row;justify-content:space-around;">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja5.jpg" alt="alt text" width="250px" height="480px">
 
