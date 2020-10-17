@@ -1,5 +1,5 @@
 import * as ActionTypes from './ActionTypes';
-import { baseUrl } from '../shared/baseUrl';
+import { baseUrlData } from '../shared/baseUrl';
 
 export const addComment = (jsobj) =>( { type: ActionTypes.ADD_COMMENT, payload:jsobj });
 
@@ -25,10 +25,10 @@ export const postFavorite = (dish) => (dispatch) => {
 };
 
 export const fetchDishes = () => (dispatch) => {
-    //  console.log("JSON:==================================================================>"+baseUrl+"dishes");
+    //  console.log("JSON:==================================================================>"+baseUrlData+"dishes");
     dispatch({ type: ActionTypes.DISHES_LOADING });
 
-    return fetch(baseUrl + "dishes")
+    return fetch(baseUrlData + "dishes")
         .then(response => {
             if (response.ok) {
                 //    console.log("JSON:ACTION::::CREATOR==>>response=======>"+JSON.stringify(response));
@@ -52,7 +52,7 @@ export const fetchDishes = () => (dispatch) => {
 
 export const fetchPromos = () => (dispatch) => {
     dispatch({ type: ActionTypes.PROMOS_LOADING });
-    return fetch(baseUrl + "promotions")
+    return fetch(baseUrlData + "promotions")
         .then(response => {
             if (response.ok) {
                 return response;
@@ -72,7 +72,7 @@ export const fetchPromos = () => (dispatch) => {
 
 export const fetchLeaders = () => (dispatch) => {
     dispatch({ type: ActionTypes.LEADERS_LOADING });
-    return fetch(baseUrl + "leaders")
+    return fetch(baseUrlData + "leaders")
         .then(response => {
             if (response.ok) {
                 return response;
@@ -92,7 +92,7 @@ export const fetchLeaders = () => (dispatch) => {
 
 export const fetchComments = () => (dispatch) => {
 
-    return fetch(baseUrl + "comments")
+    return fetch(baseUrlData + "comments")
         .then(response => {
             if (response.ok) {
                 return response;
