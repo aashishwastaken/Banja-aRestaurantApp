@@ -34,12 +34,30 @@ This restaurant app is developed in React Native for cross platform devices. (Te
   <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja6.jpg" alt="alt text" width="250px" height="480px">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja7.jpg" alt="alt text" width="250px" height="480px">
     </div>
-    7.Tiled Menu is used
+    7.Tiled Menu is used.
 
-   8.Right to left swipe will set dish as favorite. Left to right swipe will show modal having form for adding comments.
-    
+   8.Right to left swipe will set dish as favorite.
+   Left to right swipe will show a modal having form for adding comments.
+   
+   
+   ## Reservation Table Form 
   <div style="display:flex;width:100%;flex-direction:row;justify-content:space-around;">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja9.jpg" alt="alt text" width="250px" height="480px">
-<img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja10.jpg" alt="alt text" width="250px" height="480px">
 <img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja11.jpg" alt="alt text" width="250px" height="480px">
 </div>
+9. A reservation form,  on submit sends a local notification on notification screen.
+
+10.The reservation is also added in calendar.
+
+Expo's Calendar and Notification/Permission SDK is used.
+
+
+## CONTACT US and Drawer Navigation
+<div style="display:flex;width:100%;flex-direction:row;justify-content:space-around;">
+<img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja10.jpg" alt="alt text" width="250px" height="480px">
+<img src="https://raw.githubusercontent.com/aashishwastaken/Banja-aRestaurantApp/main/Screenshots/banja12.jpg" alt="alt text" width="250px" height="480px">
+</div>
+11.Send Mail button will open Native Mailer.
+
+12.Drawer Navigator of React-Navigation is used along with Stack Navigator and Tab Navigatior.
+
