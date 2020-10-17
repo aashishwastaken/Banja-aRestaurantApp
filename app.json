@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "description": "Coursera Restaurant App for Mobile Development Course",
+    "android": {
+      "package": "com.aashishwastaken.banja"
     }
   }
 }
